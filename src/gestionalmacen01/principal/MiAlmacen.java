@@ -199,6 +199,7 @@ public class MiAlmacen {
 	// Decrementa el stock
 	private static void vender() {
 		System.out.println("<VENDER>");
+		
 		System.out.println("Aún no disponible");
 		// IMPLEMENTAR
 
